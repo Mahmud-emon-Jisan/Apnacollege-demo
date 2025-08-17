@@ -1,4 +1,4 @@
 # Apnacollege-demo
 This is my first repository
 <br>
-Author - Jisan
+Author - Jisan (Apna college)
